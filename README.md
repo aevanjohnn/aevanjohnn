@@ -6,13 +6,14 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 
 ---
 
-### **Programming Languages**
+### **Languages**
 
 <br>
 
 <div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" style="display: inline-block;">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" style="display: inline-block;">
 </div>
 
 ---
