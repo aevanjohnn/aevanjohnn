@@ -11,8 +11,8 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 <br>
 
 <div>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 logo" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 logo" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" style="display: inline-block;">
 </div>
 
 ---
@@ -27,6 +27,9 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 <div>
 <a href="https://www.freecodecamp.org/aevanjohnn">
   <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?logo=freeCodeCamp&style=for-the-badge" style="display: inline-block;"/>
+</a>
+<a href="https://www.linkedin.com/in/aevanjohnn/">
+  <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="display: inline-block;"/>
 </a>
 </div>
 
