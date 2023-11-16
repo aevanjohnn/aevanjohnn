@@ -1,7 +1,4 @@
-<head>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
+<body style="background-color: white;>
 
 ## **About Me**
 
