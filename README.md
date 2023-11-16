@@ -1,12 +1,6 @@
-<style>
-body {
-    background-image: url(flow.gif);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-    </style>
-
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
 <body>
 
 ## **About Me**
