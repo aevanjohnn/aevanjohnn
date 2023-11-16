@@ -6,7 +6,7 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 
 ---
 
-### **Languages**
+## **Languages**
 
 <br>
 
@@ -18,7 +18,7 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 
 ---
 
-### **Presence**
+## **Presence**
 
 <br>
 <!--
