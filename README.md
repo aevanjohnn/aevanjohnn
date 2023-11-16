@@ -1,5 +1,3 @@
-<body style="background-color: white;>
-
 ## **About Me**
 
 <br>
@@ -30,8 +28,6 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 </a>
 
 ---
-
-</body>
 
 <!--
 **aevanjohnn/aevanjohnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
