@@ -15,9 +15,13 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 
 ### **Presence**
 
-
+<!--
 [![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-0A0A23?logo=freeCodeCamp&style=for-the-badge)](https://www.freecodecamp.org/aevanjohnn)
+-->
 
+<a href="https://www.freecodecamp.org/aevanjohnn" target="_blank">
+  <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?logo=freeCodeCamp&style=for-the-badge"/>
+</a>
 
 
 
