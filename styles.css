@@ -1,7 +1,6 @@
 body {
-  background-image: "./flow.gif";
+  background-image: url(flow.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100vh;
 }
