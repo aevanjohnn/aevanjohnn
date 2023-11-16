@@ -12,6 +12,7 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 
 <div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 logo" style="display: inline-block;">
+  <br>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 logo" style="display: inline-block;">
 </div>
 
