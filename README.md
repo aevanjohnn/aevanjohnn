@@ -1,5 +1,6 @@
 ## **About Me**
 
+<body style="background-image: url(flow.gif);">
 <br>
 
 I'm a computer enthusiast who loves learning languages both programming and spoken. I am currently studying Computer Science through ***Open Source Society University*** (OSSU), in addition to my technical pursuits, I'm also a graphic designer and when I'm not coding or designing, you can find me with my nose buried in a book or listening to music; enjoying the simple things in life. I'm just a simple person who loves to learn and grow. Thanks for stopping by!
@@ -34,6 +35,8 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 </div>
 
 ---
+
+</body>
 
 <!--
 **aevanjohnn/aevanjohnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
