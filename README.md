@@ -1,3 +1,14 @@
+<style>
+body {
+    background-image: url(flow.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+    </style>
+
+<body>
+
 ## **About Me**
 
 <br>
@@ -28,6 +39,8 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 </a>
 
 ---
+
+</body>
 
 <!--
 **aevanjohnn/aevanjohnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
