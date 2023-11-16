@@ -1,12 +1,6 @@
 body {
-    background-image: url(flow.gif);
+    background-image: url(./flow.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
   }
-
-  .container-box {
-    border: 1px solid #ff0000;
-    padding: 10px;
-    background-color: #000000;
-}
