@@ -16,9 +16,7 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 ### **Presence**
 
 
-
-![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white&style=for-the-badge)
-
+[![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-0A0A23?logo=freeCodeCamp&style=for-the-badge)](https://www.freecodecamp.org/aevanjohnn)
 
 
 
