@@ -35,6 +35,12 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 </a>
 </div>
 
+## Misc.
+
+<div>
+<img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" style="display: inline-block;">
+</div>
+
 ---
 
 
