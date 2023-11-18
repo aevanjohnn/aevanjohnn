@@ -6,7 +6,9 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 
 ---
 
-## **Languages**
+## **Programming Languages**
+
+These are all of the programming languages that I know; most of which I am already proficient in and some of which I am still currently learning. I have also included here some of the languages that can't really be considered a programming language in a traditional sense (e.g. HTML5, CSS3, etc.)
 
 <br>
 
@@ -15,6 +17,25 @@ I'm a computer enthusiast who loves learning languages both programming and spok
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" style="display: inline-block;">
   <img src="https://img.shields.io/badge/-markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" style="display: inline-block;">
   <img src="https://img.shields.io/badge/-lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-csharp-512BD4?logo=csharp&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-latex-008080?logo=latex&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-cplusplus-A8B9CC?logo=cplusplus&logoColor=white&style=for-the-badge" style="display: inline-block;">
+</div>
+
+---
+
+## **Tools and Applications**
+
+These are all of the tools and applications that I can use and utilise.
+
+<br>
+
+<div>
+  <img src="https://img.shields.io/badge/-adobephotoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-microsoftword-2B579A?logo=microsoftword&logoColor=white&style=for-the-badge" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-adobelightroom-31A8FF?logo=adobelightroom&logoColor=white&style=for-the-badge" style="display: inline-block;">
 </div>
 
 ---
@@ -42,6 +63,8 @@ I'm a computer enthusiast who loves learning languages both programming and spok
 </div>
 
 ---
+
+> “Per aspera ad Astra.” - Lucius Annaeus Seneca
 
 
 <!--
